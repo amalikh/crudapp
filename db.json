@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "mario",
+      "lastName": "cloud",
+      "email": "mario@gmail.com",
+      "mobile": "232421",
+      "salary": "$90000"
+    },
+    {
+      "id": 3,
+      "firstName": "koopa",
+      "lastName": "strife",
+      "email": "koopa@gmail.com",
+      "mobile": "0213-3124567",
+      "salary": "$10,000"
+    },
+    {
+      "id": 4,
+      "firstName": "luigi",
+      "lastName": "cane",
+      "email": "luigi@yahoo.com",
+      "mobile": "0321-1234567",
+      "salary": "$70,000"
+    },
+    {
+      "id": 5,
+      "firstName": "cloud",
+      "lastName": "flex",
+      "email": "cloud@outlook.com",
+      "mobile": "00345-1223567",
+      "salary": "$20,000"
+    },
+    {
+      "id": 6,
+      "firstName": "yushi",
+      "lastName": "jeen",
+      "email": "yushi@gmail.com",
+      "mobile": "0345-1234567",
+      "salary": "$20,000"
+    },
+    {
+      "id": 7,
+      "firstName": "subhan",
+      "lastName": "ulhaq",
+      "email": "subhan@gmail.com",
+      "mobile": "324234",
+      "salary": "4324"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
